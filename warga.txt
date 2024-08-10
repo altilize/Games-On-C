@@ -1,0 +1,10 @@
+7
+AA 3 60 kendaraan
+Suparwi 3 5.8 kendaraan
+Julian 16.3 70.2 lari
+Supardji 3 5.8 lari
+Kristianto 20 17 lari
+Hando 10 30 kendaraan
+Moses 20 80 lari
+15 50
+
