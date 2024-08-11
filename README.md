@@ -9,5 +9,5 @@ Proyek ini merupakan tugas rancang untuk mata kuliah Dasar Pemograman, yang dibu
 - Games TicTacToe
 - Mini Osiloscope
 - Eruption (Soal cerita yang diberikan oleh asdos)
-- 
+
 Untuk fitur dan informasi lebih lengkap terdapat pada file '622023006.pdf'.
